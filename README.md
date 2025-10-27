@@ -1,7 +1,15 @@
- <h1 align="center" style="font-size:38px;">Hi there! I'm Basmala 👋</h1>
+<h1 align="center" style="font-size:38px;">Hi there! I'm Basmala 👋</h1>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+</p>
+
+<!-- LinkedIn Icon تحت الصورة -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/basmala-mahmoud-31814b31a/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+         width="35" height="35" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
@@ -20,11 +28,7 @@
 <h3 align="center" style="font-size:24px;">💻 Languages & Skills</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,py,java,js,nodejs,express,django,html,css,mongodb,sklearn,sqlite,git,github" />
-</p>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" title="SQL Server"/>
+  <img src="https://skillicons.dev/icons?i=cpp,py,java,js,nodejs,express,django,html,css,mongodb,sklearn,git" />
 </p>
 
 ---
@@ -44,4 +48,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/RawanMostafa08/RawanMostafa08/main/README.md-sources/intro.gif" width="600" />
 </p>
-
