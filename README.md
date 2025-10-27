@@ -7,8 +7,11 @@
 ---
 
 <h2 align="center" style="font-size:26px;">📫 How to reach me</h2>
+
 <p align="center" style="font-size:22px; font-weight:bold;">
-  📧 <strong>basmalamahmoud841@gmail.com</strong>
+  📧 <a href="mailto:basmalamahmoud841@gmail.com" style="color:#8ab4f8; text-decoration:none; font-weight:700;">
+    basmalamahmoud841@gmail.com
+  </a>
 </p>
 
 ---
