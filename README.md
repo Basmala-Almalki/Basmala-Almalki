@@ -20,7 +20,7 @@
 <h3 align="center" style="font-size:24px;">💻 Languages & Skills</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,py,java,js,nodejs,express,django,react,html,css,mongodb,sklearn,sqlite" />
+  <img src="https://skillicons.dev/icons?i=cpp,py,java,js,nodejs,express,django,html,css,mongodb,sklearn,sqlite,git,github" />
 </p>
 
 <p align="center">
@@ -44,3 +44,4 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/RawanMostafa08/RawanMostafa08/main/README.md-sources/intro.gif" width="600" />
 </p>
+
