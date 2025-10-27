@@ -20,7 +20,7 @@
 <h3 align="center" style="font-size:24px;">💻 Languages & Skills</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,py,java,js,nodejs,express,django,react,html,css,mongodb,git" />
+  <img src="https://skillicons.dev/icons?i=cpp,py,java,js,nodejs,express,django,html,css,mongodb,git" />
 </p>
 
 <p align="center">
@@ -39,3 +39,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Basmala-Almalki&theme=nightowl&show_icons=true" alt="Basmala's GitHub stats" />
 </p>
 
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RawanMostafa08/RawanMostafa08/main/README.md-sources/intro.gif" width="600" />
+</p>
