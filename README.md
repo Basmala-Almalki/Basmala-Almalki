@@ -1,4 +1,4 @@
- <h1 align="center" style="font-size:38px;">Hi there! I'm Basmala 👋</h1>
+<h1 align="center" style="font-size:38px;">Hi there! I'm Basmala 👋</h1>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
@@ -20,7 +20,7 @@
 <h3 align="center" style="font-size:24px;">💻 Languages & Skills</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,py,java,js,nodejs,express,django,react,html,css,mongodb,sklearn,git,github" />
+  <img src="https://skillicons.dev/icons?i=cpp,py,java,js,nodejs,express,django,react,html,css,mongodb,git,github" />
 </p>
 
 <p align="center">
@@ -44,4 +44,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/RawanMostafa08/RawanMostafa08/main/README.md-sources/intro.gif" width="600" />
 </p>
-
