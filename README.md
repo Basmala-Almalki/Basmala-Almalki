@@ -32,5 +32,10 @@
 <h3 align="center" style="font-size:24px;">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Basmala-Almalki&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="Basmal_
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Basmala-Almalki&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="Basmala-Almalki" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Basmala-Almalki&theme=nightowl&show_icons=true" alt="Basmala's GitHub stats" />
+</p>
 
