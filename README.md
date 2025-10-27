@@ -6,12 +6,9 @@
 
 ## 📫 How to reach me  
 
+ <h2 align="center">📫 How to reach me</h2>
 <p align="center">
-  <strong>
-    <a href="mailto:basmalamahmoud841@gmail.com" style="font-size:20px; text-decoration:none; color:#000;">
-      📧 basmalamahmoud841@gmail.com
-    </a>
-  </strong>
+  <strong>basmalamahmoud841@gmail.com</strong>
 </p>
 
 ---
