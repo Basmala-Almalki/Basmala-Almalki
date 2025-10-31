@@ -1,4 +1,4 @@
- <h1 align="center" style="font-size:38px;">Hi there! I'm Basmala 👋</h1>
+  <h1 align="center" style="font-size:38px;">Hi there! I'm Basmala 👋</h1>
 <h3 align="center" style="font-size:22px;">A fourth year Computer Science student</h3>
 
 <p align="center">
