@@ -1,41 +1,65 @@
- <h1 align="center" style="font-size:38px;">Hi there! I'm Basmala 👋</h1>
-<h3 align="center" style="font-size:22px;">A fourth year Computer Science student</h3>
+# Hi there! I'm Basmala 👋
+
+### Computer Science Graduate 💻
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding animation" />
 </p>
 
 ---
 
-<h2 align="center" style="font-size:26px;">📫 How to reach me</h2>
+### 💻 Programming Languages
 
-<p align="center" style="font-size:22px; font-weight:bold;">
-  📧 
-  <a href="mailto:basmalamahmoud841@gmail.com" style="color:#8ab4f8; text-decoration:none; font-weight:900; text-align:center; display:inline-block;">
-    basmalamahmoud841@gmail.com
-  </a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,java,c,py,js,html,css" alt="Programming Languages" />
+</p>
+
+### 🧪 Testing & Automation Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=selenium,postman,junit,git,github,vscode" alt="Testing and Automation Tools" />
+</p>
+
+**Testing:** Manual Testing, Test Case Design, Test Scenarios, Bug Reporting, Functional Testing, Regression Testing, Smoke Testing, API Testing, Database Testing.
+
+**Automation:** Selenium WebDriver, JUnit, Test Automation Frameworks.
+
+**Test Management:** Jira.
+
+**Database:** SQL, Microsoft SQL Server.
+
+### 🛠️ Technologies & Concepts
+
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- SQL & Database Fundamentals
+- SDLC & STLC
+- Agile & Scrum
+- REST APIs
+- Git & GitHub
+
+---
+
+### 📫 How to Reach Me
+
+<p align="left">
+  📧 <a href="mailto:basmalabasmalaalmalki@gmail.com">basmalabasmalaalmalki@gmail.com</a>
 </p>
 
 ---
 
-<h3 align="center" style="font-size:24px;">💻 Languages & Skills</h3>
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,py,java,js,html,css" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basmala-Almalki&layout=compact&theme=nightowl" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" title="SQL Server"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Basmala-Almalki&show_icons=true&theme=nightowl" alt="GitHub Stats" />
 </p>
 
 ---
 
-<h3 align="center" style="font-size:24px;">📊 GitHub Stats</h3>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Basmala-Almalki&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="Basmala-Almalki" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Basmala-Almalki&theme=nightowl&show_icons=true" alt="Basmala's GitHub stats" />
+  ✨ Learning, building, and growing every day.
 </p>
