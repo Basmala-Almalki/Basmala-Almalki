@@ -14,20 +14,21 @@
   <img src="https://skillicons.dev/icons?i=cpp,java,c,py,js,html,css" alt="Programming Languages" />
 </p>
 
-### 🧪 Testing & Automation Tools
+ ### 🧪 Testing & Automation Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=selenium,postman,jira,junit,git,github,vscode" alt="Testing and Automation Tools" />
+  <img src="https://skillicons.dev/icons?i=selenium,postman,junit,git,github,vscode" alt="Testing and Automation Tools" />
 </p>
 
-**Testing:** Manual Testing, Test Case Design, Test Scenarios, Bug Reporting, Functional Testing, Regression Testing, Smoke Testing, API Testing, Database Testing.
+**Test Management:** Jira
+
+**Manual Testing:** Test Case Design, Test Scenarios, Bug Reporting, Functional Testing, Regression Testing, Smoke Testing.
+
+**API Testing:** Postman, REST APIs.
 
 **Automation:** Selenium WebDriver, JUnit, Test Automation Frameworks.
 
-**Test Management:** Jira.
-
-**Database:** SQL, Microsoft SQL Server.
-
+**Database Testing:** SQL, Microsoft SQL Server.
 ### 🛠️ Technologies & Concepts
 
 - Object-Oriented Programming (OOP)
