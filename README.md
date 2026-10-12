@@ -17,7 +17,7 @@
 ### 🧪 Testing & Automation Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=selenium,postman,junit,git,github,vscode" alt="Testing and Automation Tools" />
+  <img src="https://skillicons.dev/icons?i=selenium,postman,jira,junit,git,github,vscode" alt="Testing and Automation Tools" />
 </p>
 
 **Testing:** Manual Testing, Test Case Design, Test Scenarios, Bug Reporting, Functional Testing, Regression Testing, Smoke Testing, API Testing, Database Testing.
@@ -32,7 +32,7 @@
 
 - Object-Oriented Programming (OOP)
 - Data Structures & Algorithms
-- SQL & Database Fundamentals
+- SQL & Database 
 - SDLC & STLC
 - Agile & Scrum
 - REST APIs
